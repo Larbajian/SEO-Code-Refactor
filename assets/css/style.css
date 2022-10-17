@@ -55,6 +55,7 @@ p {
     width: 100%;
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
+    /* Image of members deliberating over client's needs */
     background-size: cover;
     background-position: center;
 }
@@ -91,6 +92,7 @@ p {
     color: #ffffff;
 }
 
+
 .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -102,7 +104,8 @@ p {
     max-width: 150px;
 }
 
-.search-engine-optimization, .online-reputation-management, .social-media-marketing {
+.search-engine-optimization, .online-reputation-management, .social-media-marketing
+    {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
